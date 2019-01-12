@@ -6,5 +6,5 @@
  + 参考式链接：  
 [我是链接一，点击可跳转][4]  
 [我是链接二，点击可跳转][5]  
-[4]:https://github.com/Freator/Hello-MySQL "MySQL"
-[5]:https://github.com/Freator/Hello-MySQL "MySQL"
+[4]: https://github.com/Freator/Hello-MySQL "MySQL"
+[5]: https://github.com/Freator/Hello-MySQL "MySQL"
