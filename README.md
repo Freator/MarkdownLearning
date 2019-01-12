@@ -1,6 +1,6 @@
 # MarkdownLearning
 Markdown 语法学习中的一些东西  
-本人是参考了`[@younghz](https://github.com/younghz)`的Repository学习了相关的内容，
+本人是参考了[@younghz](https://github.com/younghz)的Repository学习了相关的内容，
 如果你也想学习，可以点击链接：  
 <http://younghz.github.io/Markdown/>  
 或者：  
